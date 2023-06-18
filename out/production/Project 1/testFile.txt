@@ -1,0 +1,4 @@
+setState 142 358 67b
+solve beam 5
+
+

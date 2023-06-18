@@ -1,0 +1,16 @@
+setState 142 358 67b
+printState
+move up
+printState
+move left
+printState
+move right
+printState
+move down
+printState
+randomizeState 5
+solve A-star h1
+solve A-star h2
+solve beam 5
+
+
